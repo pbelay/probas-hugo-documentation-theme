@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Montaxe e mantemento de equipos informáticos
-hero_media: book.svg
+hero_media: computer.svg
 design:
   background:
     gradient_start: '#4bb4e3'
@@ -11,7 +11,7 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: Descargar
   icon_pack: fas
   icon: download
 cta_alt:
