@@ -21,7 +21,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: gl
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
