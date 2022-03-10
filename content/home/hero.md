@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: Montaxe e mantemento de equipos informáticos
 hero_media: book.svg
 design:
   background:
@@ -16,7 +16,7 @@ cta:
   icon: download
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: Ver documentación
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">

@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: Contidos de MME
+subtitle: Montaxe e mantemento de equipos informáticos✨
 feature:
   - icon: book-open
     icon_pack: fas
@@ -11,8 +11,8 @@ feature:
     description: For users
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
+    name: Base decoñecemento
+    description: Grupos
   - icon: list-alt
     icon_pack: fas
     name: Personal Notebook
